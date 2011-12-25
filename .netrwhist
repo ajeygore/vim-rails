@@ -1,3 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
-let g:netrw_dirhist_1='/Users/agore/Documents/workspace/twcloud-chef'
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/agore/Documents/workspace/thoughtworks-devops-chef/cookbooks'
+let g:netrw_dirhist_2='/Users/agore/Documents/workspace/thoughtworks-devops-chef/cookbooks/go-agent'
+let g:netrw_dirhist_3='/Users/agore/Documents/workspace/thoughtworks-devops-chef/cookbooks/go-agent/recipes'
