@@ -6,4 +6,6 @@ autocmd BufNewFile,BufRead *.json set ft=javascript
 colorscheme railscasts
 call pathogen#infect()
 filetype plugin indent on
-set guifont=Monospace\ 14
+if has('gui_running')
+    set guifont=Lucida_Console:h14
+endif
