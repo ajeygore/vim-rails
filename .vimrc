@@ -7,6 +7,6 @@ colorscheme railscasts
 call pathogen#infect()
 filetype plugin indent on
 if has('gui_running')
-    set guifont=Monaco:h14
+    set guifont=Monaco:h12
     set guioptions-=T
 endif
