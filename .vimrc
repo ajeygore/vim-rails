@@ -10,3 +10,4 @@ if has('gui_running')
     set guifont=Monaco:h12
     set guioptions-=T
 endif
+call pathogen#infect() 
